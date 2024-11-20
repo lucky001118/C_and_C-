@@ -1,0 +1,2 @@
+Welcome to {{shop}}!,This is the Electronic shop. You are parchasing {{item}}.Thanks for perchasing Mr./miss. {{name}}.
+ Hope you will come soon.mr./miss. {{name}} Your parchasing at rupees 37,000/-.

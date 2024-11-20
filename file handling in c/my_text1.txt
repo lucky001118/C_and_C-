@@ -1,0 +1,14 @@
+this is fputs functions 
+this is the new written contant : this is string that written by me. 
+This string will append in the last in my_text file.This string will append in the last in my_text file.This string will append in the last in my_text file.
+This string will append in the last in my_text file.
+This string will append in the last in my_text file.
+This string will append in the last in my_text file.
+This string will append in the last in my_text file.
+
+this is fputs functions 
+this is fputs functions 
+this is fputs functions 
+this is fputs functions 
+this is fputs functions 
+this is fputs functions 
